@@ -1,0 +1,11 @@
+# Evidencias y muestra de malware: nunca al repo
+*.zip
+*.7z
+*.mem
+*.pcap
+*.pcapng
+*.exe
+*.dll
+descarga/
+evidencia/
+__pycache__/
